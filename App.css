@@ -19,13 +19,13 @@ font-family: 'Montserrat', sans-serif;
 .taskBg {
   background-color: rgb(249, 245, 245);
   border-radius: 6px;
-  margin-bottom: 50px;
-  padding:10px 140px 20px 20px;
+  margin:10px 20px 50px 20px;
+  padding:50px 140px 50px 20px;
   text-align: left;
   font-weight: bold;
   font-size: 22px;
   position: relative;
-  
+  float: left;
   align-items: center;
   
 }
@@ -43,7 +43,7 @@ font-family: 'Montserrat', sans-serif;
 .taskNumber {
   color: rgb(0, 8, 255);
   border: 2px solid rgb(0, 4, 1);
-  border-radius: 50%;
+  border-radius: 5px;
   width: 26px;
   height: 26px;
   display: flex;
